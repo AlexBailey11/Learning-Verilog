@@ -1,19 +1,25 @@
 # Learning-Verilog
-All of the Verilog solution files I have written for the HDLBits problems in order to teach myself Verilog.
+All of the Verilog solution files I have written for the [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) problems in order to teach myself Verilog.
 
 ## Structure
 Closely follows the problems on [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page).
 So, folder structure matches the hierarchy of the problems on the website. Not all problems are included here, only most important ones.
 
 ## Goal
-I plan to use this website to learn Verilog. After completing all of the problems, I plan to then move on to learn SystemVerilog. From there, I plan to embark on a personal project of making my own RISC-V Core (or something similar).
+I plan to follow the HDLBits problems to learn Verilog. After completing them, I plan to move on to learn SystemVerilog.
+Once I am comfortable with SV, I plan to implement my own RISC-V Core.
+A separate repo will be made for the RISC-V Core once I start the project.
 
 ### Progress
+```
 [ ] Verilog Language
-    :white_check_mark: Basics
-    :white_check_mark: Vectors
-    :white_check_mark: Modules
+    ✅ Basics
+    ✅ Vectors
+    ✅ Modules
     [ ] Procedures
     [ ] More Features
 [ ] Circuits
+    ...
 [ ] Verification
+    ...
+```
