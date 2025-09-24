@@ -7,3 +7,13 @@ So, folder structure matches the hierarchy of the problems on the website. Not a
 
 ## Goal
 I plan to use this website to learn Verilog. After completing all of the problems, I plan to then move on to learn SystemVerilog. From there, I plan to embark on a personal project of making my own RISC-V Core (or something similar).
+
+### Progress
+[ ] Verilog Language
+    :white_check_mark: Basics
+    :white_check_mark: Vectors
+    :white_check_mark: Modules
+    [ ] Procedures
+    [ ] More Features
+[ ] Circuits
+[ ] Verification
