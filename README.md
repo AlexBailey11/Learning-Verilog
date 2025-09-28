@@ -16,7 +16,7 @@ A separate repo will be made for the RISC-V Core once I start the project.
     ✅ Basics
     ✅ Vectors
     ✅ Modules
-    [ ] Procedures
+    ✅ Procedures
     [ ] More Features
 [ ] Circuits
     ...
