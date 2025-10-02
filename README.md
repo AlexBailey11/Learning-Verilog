@@ -20,7 +20,7 @@ A separate repo will be made for the RISC-V Core once I start the project.
     [✅] More Features
 [🟨] Circuits
     [🟨] Combinational Logic
-        [🟨] Basic Gates
+        [✅] Basic Gates
         [ ] Multiplexers
         [🟨] Arithmetic Circuits
         [ ] K-Map to Circuit
