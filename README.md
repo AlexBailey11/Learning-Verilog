@@ -12,14 +12,26 @@ A separate repo will be made for the RISC-V Core once I start the project.
 
 ### Progress
 ```
-[ ] Verilog Language
-    ✅ Basics
-    ✅ Vectors
-    ✅ Modules
-    ✅ Procedures
-    [ ] More Features
-[ ] Circuits
-    ...
+[✅] Verilog Language
+    [✅] Basics
+    [✅] Vectors
+    [✅] Modules
+    [✅] Procedures
+    [✅] More Features
+[🟨] Circuits
+    [🟨] Combinational Logic
+        [🟨] Basic Gates
+        [ ] Multiplexers
+        [🟨] Arithmetic Circuits
+        [ ] K-Map to Circuit
+    [ ] Sequential Logic
+        [ ] Latches and Flip-Flops
+        [ ] Counters
+        [ ] Shift Registers
+        [ ] More Circuits
+        [ ] Finite State Machines
+    [ ] Larger Circuits
 [ ] Verification
-    ...
+    [ ] Reading Simulations
+    [ ] Writing Testbenches
 ```
