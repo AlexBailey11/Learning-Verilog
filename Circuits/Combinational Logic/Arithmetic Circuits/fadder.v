@@ -1,5 +1,5 @@
 //create a full adder
-module fadder1 (
+module fadder (
     input a, b, cin,
     output cout, sum
 );

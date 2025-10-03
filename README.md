@@ -22,7 +22,7 @@ A separate repo will be made for the RISC-V Core once I start the project.
     [🟨] Combinational Logic
         [✅] Basic Gates
         [✅] Multiplexers
-        [🟨] Arithmetic Circuits
+        [✅] Arithmetic Circuits
         [ ] K-Map to Circuit
     [ ] Sequential Logic
         [ ] Latches and Flip-Flops
