@@ -24,8 +24,8 @@ A separate repo will be made for the RISC-V Core once I start the project.
         [✅] Multiplexers
         [✅] Arithmetic Circuits
         [✅] K-Map to Circuit
-    [ ] Sequential Logic
-        [ ] Latches and Flip-Flops
+    [🟨] Sequential Logic
+        [✅] Latches and Flip-Flops
         [ ] Counters
         [ ] Shift Registers
         [ ] More Circuits
