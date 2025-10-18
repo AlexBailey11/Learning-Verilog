@@ -26,7 +26,7 @@ A separate repo will be made for the RISC-V Core once I start the project.
         [✅] K-Map to Circuit
     [🟨] Sequential Logic
         [✅] Latches and Flip-Flops
-        [ ] Counters
+        [✅] Counters
         [ ] Shift Registers
         [ ] More Circuits
         [ ] Finite State Machines
